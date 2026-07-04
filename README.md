@@ -1,34 +1,48 @@
-# Ai-internship-Mubeenkhan
-
-## Personal Information
-
-**Name:** Mubeen Khan
-
-**Batch:** [batch 2/2026]
-
-**Domain:** AI/Artificial Intelligence
-
----
+# AI Internship - Mubeen Khan
 
 ## Project Overview
 
-"This project showcases the complete work carried out during my summer internship, including the setup, implementation, and outcomes of the tasks assigned."
+This project showcases the complete work carried out during my summer internship, including the setup, implementation, and outcomes of the tasks assigned.
 
-### Contents
+## Contents
 
-- Project setup and configuration
-- Implementation details
-- Results and outcomes
-- Learning outcomes and reflections
-
----
+- **Setup & Configuration**: Initial project setup and environment configuration
+- **Implementation**: Core implementation of assigned tasks
+- **Outcomes**: Results, findings, and deliverables
 
 ## Getting Started
 
-Instructions for running and testing this project will be added as development progresses.
+### Prerequisites
 
----
+- Python 3.8+
+- Required dependencies (see requirements.txt)
 
-## Contact
+### Installation
 
-For questions or inquiries about this project, feel free to reach out.
+1. Clone the repository:
+```bash
+git clone https://github.com/mubeen121/Ai-internship-Mubeenkhan.git
+cd Ai-internship-Mubeenkhan
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Project Structure
+
+```
+.
+├── README.md
+├── requirements.txt
+└── [project directories and files]
+```
+
+## Author
+
+Mubeen Khan
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
