@@ -4,7 +4,7 @@
 
 **Name:** Mubeen Khan
 
-**Batch:** [Your Batch Year/Number]
+**Batch:** [batch 2/2026]
 
 **Domain:** AI/Artificial Intelligence
 
